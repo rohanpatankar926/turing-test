@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="knownRemoteServers">
+      <list>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="1af60e592cca0dd2c893ad1246cdf49e72b9d8a834dee643" />
+          <option name="urlString" value="http://127.0.0.1:8888" />
+          <authParams2>
+            <map>
+              <entry key="token" value="1af60e592cca0dd2c893ad1246cdf49e72b9d8a834dee643" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+      </list>
+    </option>
+    <option name="moduleParameters">
+      <map>
+        <entry key="$PROJECT_DIR$/../../learn/gatech/computer_vision/cv_ps_3/.idea/cv_ps_3.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="authType" value="notebook" />
+              <option name="token" value="1af60e592cca0dd2c893ad1246cdf49e72b9d8a834dee643" />
+              <option name="urlString" value="http://127.0.0.1:8888" />
+              <authParams2>
+                <map>
+                  <entry key="token" value="1af60e592cca0dd2c893ad1246cdf49e72b9d8a834dee643" />
+                </map>
+              </authParams2>
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
